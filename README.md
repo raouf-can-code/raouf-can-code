@@ -8,10 +8,8 @@
 
 ### 🚀 About Me
 
-- 🧠 Learning C++ and planning to dive into Qt
+- 🧠 Learning C++ and improving some skills
 - 🐧 Using **Arch + GNOME**
-- 🎮 I beat **Nine Circles** and **DeCode** in Geometry Dash
-
 ---
 
 ### 🛠️ Tech Stack
