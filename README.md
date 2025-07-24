@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm raouf 👋</h1>
 
-<!--
-**raouf-can-code/raouf-can-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 Frontend Developer | 🐧 Linux User | 🧠 Learning C++/C | 🎮 GD Player
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 Learning C++ and planning to dive into Qt
+- 🐧 Using **Arch + GNOME**
+- 🎮 I beat **Nine Circles** and **DeCode** in Geometry Dash
+
+---
+
+### 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,mongodb,C++,C,linux,git)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raouf-can-code&show_icons=true&theme=radical" width="50%" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- 🔹 CS50 for better understanding
+- 🔹 Advanced C++/C
+- 🔹 some front-end frameworks
