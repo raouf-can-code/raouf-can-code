@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,mongodb,linux,arch,git,cpp,c)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,mongodb,linux,fedora,git,cpp,c)
 
 ---
 
