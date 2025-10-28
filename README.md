@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🧠 Learning C++ and improving some skills
-- 🐧 Using **Arch + GNOME**
+- 🐧 Using **fedora + GNOME**
 ---
 
 ### 🛠️ Tech Stack
@@ -26,8 +26,4 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- 🔹 CS50 for better understanding
-- 🔹 Advanced C++/C
-- 🔹 some front-end frameworks
+### 🌱 Currently Taking A Break :)
