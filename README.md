@@ -8,8 +8,7 @@
 
 ### 🚀 About Me
 
-- 🧠 Learning C++ and improving some skills
-- 🐧 Using **fedora + GNOME**
+human being
 ---
 
 ### 🛠️ Tech Stack
